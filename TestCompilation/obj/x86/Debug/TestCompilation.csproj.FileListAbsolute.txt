@@ -1,0 +1,7 @@
+Z:\other projects\TestCompilation\TestCompilation\bin\Debug\TestCompilation.exe
+Z:\other projects\TestCompilation\TestCompilation\bin\Debug\TestCompilation.pdb
+Z:\other projects\TestCompilation\TestCompilation\obj\x86\Debug\ResolveAssemblyReference.cache
+Z:\other projects\TestCompilation\TestCompilation\obj\x86\Debug\TestCompilation.exe
+Z:\other projects\TestCompilation\TestCompilation\obj\x86\Debug\TestCompilation.pdb
+Z:\other projects\TestCompilation\TestCompilation\bin\Debug\ConsumerContracts.dll
+Z:\other projects\TestCompilation\TestCompilation\bin\Debug\ConsumerContracts.pdb
